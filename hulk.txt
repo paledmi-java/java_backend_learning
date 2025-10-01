@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 super strong
+=======
+green and huge
+super strong
+and angry
+>>>>>>> parent of 124573c (new hilk changes)
